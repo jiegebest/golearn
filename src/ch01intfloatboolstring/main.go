@@ -25,10 +25,10 @@ func main() {
 	// fmt.Println(utf8.RuneCountInString(s))
 
 
-	age := Age(25)
-	age.String()
+	// age := Age(25)
+	// age.String()
 
-
+	fmt.Println(1)
 
 }
 
